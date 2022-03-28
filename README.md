@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fienne
-- 👀 I’m interested in UI/UX
+- 👀 I’m interested in UI/UX and web development
 - 🌱 I’m currently learning Figma and Flutter
-- 💞️ I’m looking to collaborate on  open source software and cake
+- 💞️ I’m looking to collaborate on  open source software 
 - 📫 How to reach me ...
 
 <!---
