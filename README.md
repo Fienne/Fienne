@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fien 👩‍💻
-- 🤩 I’m an amazing UI/UX Developer and Front-End Engineer
+- 🤩 I’m an amazing UI/UX Designer and Front-End Engineer
 - 🌱 I’m love growing, so I'm currently learning Azure and CyberSecurity.
 - 💞️ I’m looking to collaborate on open source software, have something in mind? Connect with me.
 - 📫 How to reach me ...
